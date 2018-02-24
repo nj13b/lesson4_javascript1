@@ -4,22 +4,21 @@
 Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+2/23/2108
 
 ### Student Name:  
-(First and Last Name)
+Nickson Jean Baptiste
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+Learning JavaScript functions
 
 ### View Project:
-(Replace this statement with your GitHub Page URL that was created when you 
- published the project.)
+https://github.com/nj13b/lesson4_javascript1
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. Declaring variables to be called upon later
+2. Referencing object by Element ID
+3. HTML events 
 
 
 
