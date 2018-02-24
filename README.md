@@ -18,7 +18,7 @@ https://github.com/nj13b/lesson4_javascript1
 ### Lessons Learned in the Assignment:
 1. Declaring variables to be called upon later
 2. Referencing object by Element ID
-3. HTML events 
+3. HTML events
 
 
 
